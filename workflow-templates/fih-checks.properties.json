@@ -1,0 +1,6 @@
+{
+  "name": "FIH checks",
+  "description": "Frugal Innovation Hub checks on every pull request: leaked keys, junk files, dangerous code, vulnerable libraries, build and tests. Add FIH guard too.",
+  "iconName": "octicon shield-check",
+  "categories": ["Continuous integration", "Security", "Python", "JavaScript", "TypeScript", "Dart"]
+}

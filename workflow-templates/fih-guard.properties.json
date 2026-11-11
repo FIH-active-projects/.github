@@ -1,0 +1,6 @@
+{
+  "name": "FIH guard",
+  "description": "Goes with FIH checks: marks pull requests from forks that change .github/ (the checks and review rules), before anyone approves their workflows.",
+  "iconName": "octicon lock",
+  "categories": ["Continuous integration", "Security", "Python", "JavaScript", "TypeScript", "Dart"]
+}
